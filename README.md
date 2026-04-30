@@ -41,6 +41,6 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
 
 ---
 
-## ⚡ Frase
+## 🚀 Projetos em destaque
 
-"Não é sobre saber tudo, é sobre nunca parar de evoluir."
+- 📌 Em breve...
