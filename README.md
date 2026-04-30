@@ -38,7 +38,7 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:pedro.almeida23@outlook.com">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="40"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 ## 🚀 Projetos em destaque
