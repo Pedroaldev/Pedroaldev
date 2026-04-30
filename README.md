@@ -31,23 +31,6 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroaldev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroaldev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pedroaldev&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
