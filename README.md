@@ -36,15 +36,12 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Almeida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-## 🌐 Meu GitHub
-
 <p align="center">
   <a href="https://github.com/Pedroaldev">
     <img src="https://img.shields.io/badge/GitHub-Pedroaldev-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 ## ⚡ Frase
+---
 
 > "Evoluindo um pouco todos os dias 🚀"
