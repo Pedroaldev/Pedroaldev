@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Almeida</h1>
+<h1 align="center">Olá, eu sou o Pedro Almeida 👋</h1>
 
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -21,21 +21,25 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
 
 ## 🛠️ Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algoritmos-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redes-1E90FF?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,github" />
 </p>
+
+<p align="center">
+  💡 Algoritmos • 🌐 Redes
+</p>
+
+---
 
 ## 📫 Contato
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pedro-almeida-ab0857403">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Almeida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+---
 
 ## ⚡ Frase
 
