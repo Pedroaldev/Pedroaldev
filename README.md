@@ -43,4 +43,4 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
 
 ## ⚡ Frase
 
-> "Evoluindo um pouco todos os dias 🚀"
+"Não é sobre saber tudo, é sobre nunca parar de evoluir."
