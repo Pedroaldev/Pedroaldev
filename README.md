@@ -39,9 +39,8 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pedro.almeida23@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40px"/>
-  </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ## 🚀 Projetos em destaque
 
