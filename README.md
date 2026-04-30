@@ -37,9 +37,11 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
   <a href="https://www.linkedin.com/in/pedro-almeida-ab0857403">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pedro.almeida23@outlook.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40px"/>
+  </a>
 </p>
-
----
 
 ## 🚀 Projetos em destaque
 
