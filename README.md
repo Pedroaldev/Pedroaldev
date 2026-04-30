@@ -38,6 +38,5 @@ Tenho perfil curioso, dedicado e estou sempre buscando aprender mais e evoluir.
 </p>
 
 ## ⚡ Frase
----
 
 > "Evoluindo um pouco todos os dias 🚀"
